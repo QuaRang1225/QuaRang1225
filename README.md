@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://github.com/back-young-company/project-bestwish">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=QuaRang1225&repo=project-bsetwish&theme=tokyonight&border_color=30363d" width="49%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=back-young-company&repo=project-bestwish&theme=tokyonight&border_color=30363d" width="49%"/>
   </a>
   <a href="https://github.com/imad-project/imad-ios">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=imad-project&repo=imad-ios&theme=tokyonight&border_color=30363d" width="49%"/>
